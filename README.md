@@ -53,4 +53,4 @@ This repository was created in the Semester 2 of 2022-2023. It stores the group 
 
 Final integration + computational journalism content presentation:
 
-[What make a Prize? Presentation Page](https://kidult2226.github.io/AIDM-7410-Page/) 
+[What make a Prize? Presentation Webpage](https://antiwarp2000.github.io/AIDM-7410-PAGE/)
