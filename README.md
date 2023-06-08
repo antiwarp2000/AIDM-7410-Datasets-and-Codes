@@ -2,7 +2,7 @@
 
 # Project Introduction
 
-   This is the 7410 project of the Lord of Sham Shui Po, the following is a simple introduction
+This repository was created in the Semester 2 of 2022-2023. It stores the group project datasets&codes of the course AIDM-7410 Computational Journalism @ Hong Kong Baptist University, School of Communication (HKBU). This group project was created by JIANG Zhuohao, YU Minghao ,and HE Yuchen ,the following is a simple introduction:
  
 # Directory Structure Description
     ├── ReadMe.md           // help document
