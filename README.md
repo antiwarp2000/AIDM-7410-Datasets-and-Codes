@@ -8,6 +8,9 @@ We have utilized AI techniques/models and visualization components to create a d
 
 Specifically, we have collected and analyzed 2,880 entries and over 12,800 photos from all WPP awards since 1955, along with examination on descriptions of these award-winning photos and information about the photographers published on the official WPP website. 
 
+![Image Description](https://raw.githubusercontent.com/antiwarp2000/AIDM-7410-PAGE/main/illustrations/0001.png)
+
+
 Our goal was to identify trends and characteristics of WPP awards both externally and internally, strive to demonstrate the overall criteria and taste of WPP awards (and their trends), and ultimately tend to acquire the answer and a guidance for you who are interested: <br><b>WHAT MAKES A PRIZE IN World Press Photo CONTESTS?</b>
 
 <b>The following is the content of web-scraping, AI analysis & visualisation details.</b>
